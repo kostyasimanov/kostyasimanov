@@ -1,4 +1,5 @@
-[![MasterHead](https://media.tenor.com/kL4Aill7SGkAAAAd/pixel-video-game.gif)](https://linkedin.com/in/kostyasimanov) 
+<!-- [![MasterHead](https://media.tenor.com/kL4Aill7SGkAAAAd/pixel-video-game.gif)](https://linkedin.com/in/kostyasimanov) 
+-->
 <h1 align="center">Hi 👋, I'm Kostya.</h1>
 <h3 align="center">DevOps \ Network Administrator \ SysAdmin</h3>
 
