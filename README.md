@@ -1,9 +1,11 @@
+[![MasterHead](https://media.tenor.com/kL4Aill7SGkAAAAd/pixel-video-game.gif)](https://linkedin.com/in/kostyasimanov) 
 <h1 align="center">Hi 👋, I'm Kostya.</h1>
 <h3 align="center">DevOps \ Network Administrator \ SysAdmin</h3>
 
 - 🌱 I’m currently learning **DevOps practices.**
-
+<img align="right" alt="Coding" width="300" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif"/>
 <p align="left">
+
 <a href="https://linkedin.com/in/kostyasimanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kostyasimanov" height="30" width="40" /></a>
 </p>
 
